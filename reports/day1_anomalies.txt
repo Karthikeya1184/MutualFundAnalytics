@@ -1,0 +1,15 @@
+DAY 1 ANOMALY REPORT
+
+Dataset: fund_master.csv
+
+1. Missing Values
+- risk_grade has 25 missing records
+
+2. Duplicate Records
+- 10 duplicate rows found
+
+3. Datatype Issues
+- NAV stored as text
+
+4. Recommendation
+- Clean missing values before analysis

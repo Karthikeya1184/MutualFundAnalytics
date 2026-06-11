@@ -1,3 +1,12 @@
+"""
+Data Ingestion Module
+
+Purpose:
+Fetch mutual fund data and save it for processing.
+
+Author:
+Karthikeya Bammidi
+"""
 import pandas as pd
 import os
 
